@@ -1,2 +1,2 @@
 # MovieLens
-E.D.A 
+Performed an exploratory data analysis of Movies.
