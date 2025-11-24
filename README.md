@@ -45,18 +45,18 @@ These insights are crucial for designing a robust recommendation system that bal
 Element,Type,Description
 ### data/,Directory,"Storage location for all datasets, both original and processed/cleaned. It keeps the project root clean."
 
-### ratings.csv,File,Original dataset file (assumed). Contains user ratings of movies. Essential for building recommender systems or analyzing rating patterns.
+#### ratings.csv,File,Original dataset file (assumed). Contains user ratings of movies. Essential for building recommender systems or analyzing rating patterns.
 
-### movies.csv,File,"Original dataset file (assumed). Contains movie metadata, including titles and genres. Used for joining with ratings and tags."
+#### movies.csv,File,"Original dataset file (assumed). Contains movie metadata, including titles and genres. Used for joining with ratings and tags."
 
-### tags.csv,File,Original dataset file (assumed). Contains user-submitted tags for movies. Useful for feature engineering and content-based analysis.
+#### tags.csv,File,Original dataset file (assumed). Contains user-submitted tags for movies. Useful for feature engineering and content-based analysis.
 
-### cleaned_movielens.csv,File,"Output/Engineered Dataset. The final, cleaned, merged, and feature-engineered dataset ready for modeling or deep analysis. This is the main input for the analysis notebook."
+#### cleaned_movielens.csv,File,"Output/Engineered Dataset. The final, cleaned, merged, and feature-engineered dataset ready for modeling or deep analysis. This is the main input for the analysis notebook."
 
-### MovieLens_EDA.ipynb,File,"Jupyter Notebook. The main workspace for Exploratory Data Analysis (EDA), cleaning scripts, feature engineering, and initial analytical findings on the MovieLens dataset."
+#### MovieLens_EDA.ipynb,File,"Jupyter Notebook. The main workspace for Exploratory Data Analysis (EDA), cleaning scripts, feature engineering, and initial analytical findings on the MovieLens dataset."
 
 ## 👤 Author
 
 * **Japhet Ujile**
     * [LinkedIn](https://www.linkedin.com/in/japhet-ujile-838442148?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-    * Email: `assistant.rawlings@gmail.com`
+    * [Email](mailto:assistant.rawlings@gmail.com)
